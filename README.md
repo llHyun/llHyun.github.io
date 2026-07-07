@@ -51,7 +51,7 @@
                 <span>2001.06.25</span>
                 <span>010-7527-0485</span>
                 <span>dl1844@naver.com</span>
-                <span><a href="https://github.com/IlHyun" target="_blank">GitHub: github.com/IlHyun</a></span>
+                <span><a href="https://github.com/llHyun" target="_blank">GitHub: github.com/llHyun</a></span>
                 <span><a href="https://velog.io/@hyun_ll" target="_blank">Velog: velog.io/@hyun_ll</a></span>
             </div>
         </header>
