@@ -12,6 +12,8 @@
         .subtitle { font-size: 1.2rem; color: #0d6efd; font-weight: 700; margin-bottom: 20px; letter-spacing: 1px; }
         .contact-info { font-size: 0.95rem; color: #555; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; }
         .contact-info span { background: #f8f9fa; padding: 6px 14px; border-radius: 20px; font-weight: 500; border: 1px solid #e9ecef; }
+        .contact-info a { color: inherit; text-decoration: none; }
+        .contact-info a:hover { text-decoration: underline; color: #0d6efd; }
         .section-title { font-size: 1.5rem; font-weight: 700; color: #2c3e50; border-left: 5px solid #0d6efd; padding-left: 15px; margin: 50px 0 25px 0; }
         .tech-group { margin-bottom: 25px; }
         .tech-group h3 { font-size: 1.1rem; color: #495057; margin-bottom: 12px; font-weight: 600; }
@@ -49,7 +51,8 @@
                 <span>2001.06.25</span>
                 <span>010-7527-0485</span>
                 <span>dl1844@naver.com</span>
-                <span>GitHub: github.com/IlHyun</span>
+                <span><a href="https://github.com/IlHyun" target="_blank">GitHub: github.com/IlHyun</a></span>
+                <span><a href="https://velog.io/@hyun_ll" target="_blank">Velog: velog.io/@hyun_ll</a></span>
             </div>
         </header>
 
@@ -193,4 +196,4 @@
         </section>
     </div>
 </body>
-</html>"""
+</html>
