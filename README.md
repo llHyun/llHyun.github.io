@@ -1,4 +1,3 @@
-html_content = """<!DOCTYPE html>
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
@@ -195,8 +194,3 @@ html_content = """<!DOCTYPE html>
     </div>
 </body>
 </html>"""
-
-with open("이도현_포트폴리오.html", "w", encoding="utf-8") as f:
-    f.write(html_content)
-
-print("File generated successfully.")
